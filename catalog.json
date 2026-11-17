@@ -1,11 +1,17 @@
 {
   "schema_version": 1,
-  "catalog_version": 1,
+  "catalog_version": 2,
   "updated_at": "2026-11-18",
   "games": [
     {
       "id": "test001",
       "name": "GPK 商店同步测试",
+      "version": "1.0",
+      "status": "test"
+    },
+    {
+      "id": "test002",
+      "name": "第二款游戏自动更新测试",
       "version": "1.0",
       "status": "test"
     }
