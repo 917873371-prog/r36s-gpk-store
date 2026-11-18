@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 19,
+  "catalog_version" : 20,
   "games" : [
     {
       "id" : "test001",
@@ -106,6 +106,13 @@
       "id" : "game-1795017737",
       "name" : "不朽的神迹",
       "share_url" : "https://pan.baidu.com/s/1Tcoq8U8kLW9aAh9EiIHhAg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017809-374fa0ad8a197e0a.png",
+      "id" : "game-1795017809",
+      "name" : "查利谋杀案",
+      "share_url" : "https://pan.baidu.com/s/1rvTpQNez6_jCUF1z5M_NAQ?pwd=1234",
       "status" : "published"
     }
   ],
