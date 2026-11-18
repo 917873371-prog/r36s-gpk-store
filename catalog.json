@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 41,
+  "catalog_version" : 42,
   "games" : [
     {
       "id" : "test001",
@@ -260,6 +260,13 @@
       "id" : "game-1795022839",
       "name" : "古惑狼疯了",
       "share_url" : "https://pan.baidu.com/s/1n64KpPPE2r9KDxcdvwagsw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795022913-e102234567283e85.png",
+      "id" : "game-1795022913",
+      "name" : "怪奇物语3",
+      "share_url" : "https://pan.baidu.com/s/1tcwNdH4CXQkUH85qa45sUA?pwd=1234",
       "status" : "published"
     }
   ],
