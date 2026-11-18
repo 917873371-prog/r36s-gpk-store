@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 25,
+  "catalog_version" : 26,
   "games" : [
     {
       "id" : "test001",
@@ -148,6 +148,13 @@
       "id" : "game-1795018583",
       "name" : "超级马里奥64",
       "share_url" : "https://pan.baidu.com/s/17eb6Dx6Lbjd-ZNRiJZeWoQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795018761-737ae7e03c6d6533.png",
+      "id" : "game-1795018761",
+      "name" : "尘埃：幸福的轨迹",
+      "share_url" : "https://pan.baidu.com/s/1JAvRONDAlRwV9f8CSaKeiQ?pwd=1234",
       "status" : "published"
     }
   ],
