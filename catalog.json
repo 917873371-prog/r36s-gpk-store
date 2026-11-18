@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 29,
+  "catalog_version" : 30,
   "games" : [
     {
       "id" : "test001",
@@ -176,6 +176,13 @@
       "id" : "game-1795018996",
       "name" : "地牢猎手3",
       "share_url" : "https://pan.baidu.com/s/1hHel_OYRtO9SW-TNeL7-AA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795019118-ddfb40383f92dc47.png",
+      "id" : "game-1795019118",
+      "name" : "地牢猎手4",
+      "share_url" : "https://pan.baidu.com/s/1kRP88AnvEIa_7VD68qKsFg?pwd=1234",
       "status" : "published"
     }
   ],
