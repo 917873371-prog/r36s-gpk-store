@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 40,
+  "catalog_version" : 41,
   "games" : [
     {
       "id" : "test001",
@@ -253,6 +253,13 @@
       "id" : "game-1795022768",
       "name" : "孤胆车神：西海岸行动",
       "share_url" : "https://pan.baidu.com/s/1qO37h1SwPceIfTRlO5vH-Q?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795022839-e872f0eed2bcebca.png",
+      "id" : "game-1795022839",
+      "name" : "古惑狼疯了",
+      "share_url" : "https://pan.baidu.com/s/1n64KpPPE2r9KDxcdvwagsw?pwd=1234",
       "status" : "published"
     }
   ],
