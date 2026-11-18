@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 14,
+  "catalog_version" : 15,
   "games" : [
     {
       "id" : "test001",
@@ -71,6 +71,13 @@
       "id" : "game-1795017325",
       "name" : "奥尼罗",
       "share_url" : "https://pan.baidu.com/s/1tfGGAasyEGsT06Kr8rIF1A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017424-ce76068ecb480c12.png",
+      "id" : "game-1795017424",
+      "name" : "堡垒 Bastion",
+      "share_url" : "https://pan.baidu.com/s/1isKkcfLBM4Yq_UI9KQBrhA?pwd=1234",
       "status" : "published"
     }
   ],
