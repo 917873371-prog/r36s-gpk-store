@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 31,
+  "catalog_version" : 32,
   "games" : [
     {
       "id" : "test001",
@@ -190,6 +190,13 @@
       "id" : "game-1795019212",
       "name" : "地狱边境",
       "share_url" : "https://pan.baidu.com/s/1EOVvvjnIdEoiDhZMa9_pqQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795019289-1140f60bfec19d99.png",
+      "id" : "game-1795019289",
+      "name" : "登山赛车",
+      "share_url" : "https://pan.baidu.com/s/16BxUu8wyk6xS_m5zCGISig?pwd=1234",
       "status" : "published"
     }
   ],
