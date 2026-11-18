@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 32,
+  "catalog_version" : 33,
   "games" : [
     {
       "id" : "test001",
@@ -197,6 +197,13 @@
       "id" : "game-1795019289",
       "name" : "登山赛车",
       "share_url" : "https://pan.baidu.com/s/16BxUu8wyk6xS_m5zCGISig?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795020846-0d953ad2d5beaf03.png",
+      "id" : "game-1795020846",
+      "name" : "渎神",
+      "share_url" : "https://pan.baidu.com/s/1D90MWRjKc6X3Pty9y9VN0Q?pwd=1234",
       "status" : "published"
     }
   ],
