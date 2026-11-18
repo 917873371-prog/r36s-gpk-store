@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 37,
+  "catalog_version" : 38,
   "games" : [
     {
       "id" : "test001",
@@ -232,6 +232,13 @@
       "id" : "game-1795021129",
       "name" : "格里克阿祖尔的回忆",
       "share_url" : "https://pan.baidu.com/s/1pWBBQ0iKz0kfekX2cb7M7w?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795021490-7474e22a34aefe81.png",
+      "id" : "game-1795021490",
+      "name" : "孤胆车神：迈阿密风云",
+      "share_url" : "https://pan.baidu.com/s/1TQsYMsA4EgOJ3UtLnA9_0A?pwd=1234",
       "status" : "published"
     }
   ],
