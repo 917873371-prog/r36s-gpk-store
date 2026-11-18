@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 23,
+  "catalog_version" : 24,
   "games" : [
     {
       "id" : "test001",
@@ -134,6 +134,13 @@
       "id" : "game-1795018353",
       "name" : "超凡蜘蛛侠2",
       "share_url" : "https://pan.baidu.com/s/1K_4SvjYsTbYNV24KMelGHw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795018436-95796617a4bd2463.png",
+      "id" : "game-1795018436",
+      "name" : "超级马里奥 3D 大陆",
+      "share_url" : "https://pan.baidu.com/s/15AuqD-Ef1pTjrWrnYmApIw?pwd=1234",
       "status" : "published"
     }
   ],
