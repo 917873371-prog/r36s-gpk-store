@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 12,
+  "catalog_version" : 13,
   "games" : [
     {
       "id" : "test001",
@@ -57,6 +57,13 @@
       "id" : "game-1795017152",
       "name" : "暗影之枪",
       "share_url" : "https://pan.baidu.com/s/1JFMaGlHj4r_QSIqtb6nhrg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017258-13435d863418c566.png",
+      "id" : "game-1795017258",
+      "name" : "傲气雄鹰：重装上阵",
+      "share_url" : "https://pan.baidu.com/s/1bseFaJ-2aHCEdFq0VPkBLg?pwd=1234",
       "status" : "published"
     }
   ],
