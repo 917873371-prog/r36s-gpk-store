@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 5,
+  "catalog_version" : 6,
   "games" : [
     {
       "id" : "test001",
@@ -16,13 +16,6 @@
     {
       "id" : "test003",
       "name" : "v3 发布验收测试"
-    },
-    {
-      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1794944315-00a2c6dbcc6f63a2.png",
-      "id" : "game-1794944315",
-      "name" : "武士2复仇改名测试",
-      "share_url" : "https://pan.baidu.com/s/1V9N0tLBQJBAjBG5yP4_dtw?pwd=1234",
-      "status" : "published"
     }
   ],
   "schema_version" : 1,
