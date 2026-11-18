@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 6,
+  "catalog_version" : 7,
   "games" : [
     {
       "id" : "test001",
@@ -16,6 +16,13 @@
     {
       "id" : "test003",
       "name" : "v3 发布验收测试"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795016371-640eba6f70bd66f7.png",
+      "id" : "game-1795016371",
+      "name" : "以撒的结合：胎衣",
+      "share_url" : "https://pan.baidu.com/s/1w1HiwJTP93J_3WdUatT2hQ?pwd=1234",
+      "status" : "published"
     }
   ],
   "schema_version" : 1,
