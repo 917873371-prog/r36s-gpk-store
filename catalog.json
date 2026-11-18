@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 20,
+  "catalog_version" : 21,
   "games" : [
     {
       "id" : "test001",
@@ -113,6 +113,13 @@
       "id" : "game-1795017809",
       "name" : "查利谋杀案",
       "share_url" : "https://pan.baidu.com/s/1rvTpQNez6_jCUF1z5M_NAQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017864-2f2d7a398bdaf912.png",
+      "id" : "game-1795017864",
+      "name" : "茶杯头",
+      "share_url" : "https://pan.baidu.com/s/1JBW_FJjAW_muPm2ZnhwjYQ?pwd=1234",
       "status" : "published"
     }
   ],
