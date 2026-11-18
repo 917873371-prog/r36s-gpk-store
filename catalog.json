@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 7,
+  "catalog_version" : 8,
   "games" : [
     {
       "id" : "test001",
@@ -22,6 +22,13 @@
       "id" : "game-1795016371",
       "name" : "以撒的结合：胎衣",
       "share_url" : "https://pan.baidu.com/s/1w1HiwJTP93J_3WdUatT2hQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795016507-a07ff004e6b9be45.png",
+      "id" : "game-1795016507",
+      "name" : "艾希",
+      "share_url" : "https://pan.baidu.com/s/1BNcgVPhj930GavNIOkNk7g?pwd=1234",
       "status" : "published"
     }
   ],
