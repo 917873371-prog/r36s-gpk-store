@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 11,
+  "catalog_version" : 12,
   "games" : [
     {
       "id" : "test001",
@@ -50,6 +50,13 @@
       "id" : "game-1795017072",
       "name" : "暗影格斗2",
       "share_url" : "https://pan.baidu.com/s/1Qn5LTmPknjyuWiFQhtxkMA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017152-51dfdecc79f3d9f4.png",
+      "id" : "game-1795017152",
+      "name" : "暗影之枪",
+      "share_url" : "https://pan.baidu.com/s/1JFMaGlHj4r_QSIqtb6nhrg?pwd=1234",
       "status" : "published"
     }
   ],
