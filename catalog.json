@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 15,
+  "catalog_version" : 16,
   "games" : [
     {
       "id" : "test001",
@@ -78,6 +78,13 @@
       "id" : "game-1795017424",
       "name" : "堡垒 Bastion",
       "share_url" : "https://pan.baidu.com/s/1isKkcfLBM4Yq_UI9KQBrhA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017490-4fac55678b4d85f8.png",
+      "id" : "game-1795017490",
+      "name" : "暴徒猎手",
+      "share_url" : "https://pan.baidu.com/s/1XDC9IZ3iimgGTlSPq2zIOg?pwd=1234",
       "status" : "published"
     }
   ],
