@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 33,
+  "catalog_version" : 34,
   "games" : [
     {
       "id" : "test001",
@@ -204,6 +204,13 @@
       "id" : "game-1795020846",
       "name" : "渎神",
       "share_url" : "https://pan.baidu.com/s/1D90MWRjKc6X3Pty9y9VN0Q?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795020955-596609b0909ba88e.png",
+      "id" : "game-1795020955",
+      "name" : "恶霸鲁尼",
+      "share_url" : "https://pan.baidu.com/s/1k0ZxiWLF0IKqc_VVTFZI4g?pwd=1234",
       "status" : "published"
     }
   ],
