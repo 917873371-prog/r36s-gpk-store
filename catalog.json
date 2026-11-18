@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 28,
+  "catalog_version" : 29,
   "games" : [
     {
       "id" : "test001",
@@ -169,6 +169,13 @@
       "id" : "game-1795018905",
       "name" : "穿越火线",
       "share_url" : "https://pan.baidu.com/s/1i6vSiT870n_Q60LDrDrYvA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795018996-edab97d2ab7fcd97.png",
+      "id" : "game-1795018996",
+      "name" : "地牢猎手3",
+      "share_url" : "https://pan.baidu.com/s/1hHel_OYRtO9SW-TNeL7-AA?pwd=1234",
       "status" : "published"
     }
   ],
