@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 24,
+  "catalog_version" : 25,
   "games" : [
     {
       "id" : "test001",
@@ -141,6 +141,13 @@
       "id" : "game-1795018436",
       "name" : "超级马里奥 3D 大陆",
       "share_url" : "https://pan.baidu.com/s/15AuqD-Ef1pTjrWrnYmApIw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795018583-14526f969b025b4a.png",
+      "id" : "game-1795018583",
+      "name" : "超级马里奥64",
+      "share_url" : "https://pan.baidu.com/s/17eb6Dx6Lbjd-ZNRiJZeWoQ?pwd=1234",
       "status" : "published"
     }
   ],
