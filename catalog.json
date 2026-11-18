@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 35,
+  "catalog_version" : 36,
   "games" : [
     {
       "id" : "test001",
@@ -218,6 +218,13 @@
       "id" : "game-1795021008",
       "name" : "反恐精英1.6",
       "share_url" : "https://pan.baidu.com/s/1Sas-Iv99PWWX1qODECem7w?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795021073-bbd06ebe54679541.png",
+      "id" : "game-1795021073",
+      "name" : "愤怒的小鸟",
+      "share_url" : "https://pan.baidu.com/s/1mtRBZbh8ZOpeKEtRFx11MA?pwd=1234",
       "status" : "published"
     }
   ],
