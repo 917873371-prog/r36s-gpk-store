@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 36,
+  "catalog_version" : 37,
   "games" : [
     {
       "id" : "test001",
@@ -225,6 +225,13 @@
       "id" : "game-1795021073",
       "name" : "愤怒的小鸟",
       "share_url" : "https://pan.baidu.com/s/1mtRBZbh8ZOpeKEtRFx11MA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795021129-3a1cbd8dbf6d3bf7.png",
+      "id" : "game-1795021129",
+      "name" : "格里克阿祖尔的回忆",
+      "share_url" : "https://pan.baidu.com/s/1pWBBQ0iKz0kfekX2cb7M7w?pwd=1234",
       "status" : "published"
     }
   ],
