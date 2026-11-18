@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 38,
+  "catalog_version" : 39,
   "games" : [
     {
       "id" : "test001",
@@ -239,6 +239,13 @@
       "id" : "game-1795021490",
       "name" : "孤胆车神：迈阿密风云",
       "share_url" : "https://pan.baidu.com/s/1TQsYMsA4EgOJ3UtLnA9_0A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795022708-c2305c91368eb0a7.png",
+      "id" : "game-1795022708",
+      "name" : "孤胆车神：维加斯",
+      "share_url" : "https://pan.baidu.com/s/1sAi6ICUqIWOlsV5kv0boRA?pwd=1234",
       "status" : "published"
     }
   ],
