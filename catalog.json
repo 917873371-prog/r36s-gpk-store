@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 18,
+  "catalog_version" : 19,
   "games" : [
     {
       "id" : "test001",
@@ -99,6 +99,13 @@
       "id" : "game-1795017670",
       "name" : "波斯王子",
       "share_url" : "https://pan.baidu.com/s/1ceYGFTiUbFmXEuQvFtqqeQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017737-999ebe0d5324b4cd.png",
+      "id" : "game-1795017737",
+      "name" : "不朽的神迹",
+      "share_url" : "https://pan.baidu.com/s/1Tcoq8U8kLW9aAh9EiIHhAg?pwd=1234",
       "status" : "published"
     }
   ],
