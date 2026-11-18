@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 9,
+  "catalog_version" : 10,
   "games" : [
     {
       "id" : "test001",
@@ -36,6 +36,13 @@
       "id" : "game-1795016586",
       "name" : "暗黑破坏神PD2",
       "share_url" : "https://pan.baidu.com/s/1MDu6mLzVLgCEC_b8gZJL-Q?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017001-bb54ad8a6f9202ed.png",
+      "id" : "game-1795017001",
+      "name" : "暗黑破坏神",
+      "share_url" : "https://pan.baidu.com/s/1g02rUf_VhsrXgiWlER0tyg?pwd=1234",
       "status" : "published"
     }
   ],
