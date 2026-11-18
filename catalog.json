@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 39,
+  "catalog_version" : 40,
   "games" : [
     {
       "id" : "test001",
@@ -246,6 +246,13 @@
       "id" : "game-1795022708",
       "name" : "孤胆车神：维加斯",
       "share_url" : "https://pan.baidu.com/s/1sAi6ICUqIWOlsV5kv0boRA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795022768-12e0b9d845fa03fd.png",
+      "id" : "game-1795022768",
+      "name" : "孤胆车神：西海岸行动",
+      "share_url" : "https://pan.baidu.com/s/1qO37h1SwPceIfTRlO5vH-Q?pwd=1234",
       "status" : "published"
     }
   ],
