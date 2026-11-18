@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 17,
+  "catalog_version" : 18,
   "games" : [
     {
       "id" : "test001",
@@ -92,6 +92,13 @@
       "id" : "game-1795017601",
       "name" : "蝙蝠侠",
       "share_url" : "https://pan.baidu.com/s/1IH8MsAyeub34FVcppm3SpQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795017670-c708cab901cb59e7.png",
+      "id" : "game-1795017670",
+      "name" : "波斯王子",
+      "share_url" : "https://pan.baidu.com/s/1ceYGFTiUbFmXEuQvFtqqeQ?pwd=1234",
       "status" : "published"
     }
   ],
