@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 22,
+  "catalog_version" : 23,
   "games" : [
     {
       "id" : "test001",
@@ -127,6 +127,13 @@
       "id" : "game-1795018200",
       "name" : "铲子骑士",
       "share_url" : "https://pan.baidu.com/s/1_o3AxIeEZQKGdmIXu8Pakw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795018353-94a39133dacc4225.png",
+      "id" : "game-1795018353",
+      "name" : "超凡蜘蛛侠2",
+      "share_url" : "https://pan.baidu.com/s/1K_4SvjYsTbYNV24KMelGHw?pwd=1234",
       "status" : "published"
     }
   ],
