@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 66,
+  "catalog_version" : 67,
   "games" : [
     {
       "id" : "test001",
@@ -435,6 +435,13 @@
       "id" : "game-1795102780",
       "name" : "龙珠Z",
       "share_url" : "https://pan.baidu.com/s/1qr-TpjWWxABYc2uf6aWscQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795102946-218cd333be6f6027.png",
+      "id" : "game-1795102946",
+      "name" : "胧村正",
+      "share_url" : "https://pan.baidu.com/s/10YF1evsyBVsu_-yZHzTRDA?pwd=1234",
       "status" : "published"
     }
   ],
