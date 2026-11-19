@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 51,
+  "catalog_version" : 52,
   "games" : [
     {
       "id" : "test001",
@@ -330,6 +330,13 @@
       "id" : "game-1795098505",
       "name" : "近地联盟先遣队",
       "share_url" : "https://pan.baidu.com/s/14qMvtNQBxNPF0hU1plKEZg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795099221-3c6bbe4b31c4eb87.png",
+      "id" : "game-1795099221",
+      "name" : "聚爆Implosion",
+      "share_url" : "https://pan.baidu.com/s/1e4X6nUT0DzX_sivrRJSF0g?pwd=1234",
       "status" : "published"
     }
   ],
