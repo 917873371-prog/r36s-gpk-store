@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 53,
+  "catalog_version" : 54,
   "games" : [
     {
       "id" : "test001",
@@ -344,6 +344,13 @@
       "id" : "game-1795099300",
       "name" : "空洞骑士：丝之歌",
       "share_url" : "https://pan.baidu.com/s/1Wyk_GmY0QHSG1CnEmgWnMA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795099399-9ef8ec008ca37b6a.png",
+      "id" : "game-1795099399",
+      "name" : "空洞骑士",
+      "share_url" : "https://pan.baidu.com/s/11fvcQ426AUODdZ8lNtJGDw?pwd=1234",
       "status" : "published"
     }
   ],
