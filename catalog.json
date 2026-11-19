@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 46,
+  "catalog_version" : 47,
   "games" : [
     {
       "id" : "test001",
@@ -295,6 +295,13 @@
       "id" : "game-1795097992",
       "name" : "滑板派对3",
       "share_url" : "https://pan.baidu.com/s/1Io0hH0WDtp5c4UPzOU3g6w?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795098057-279977d38f2e431d.png",
+      "id" : "game-1795098057",
+      "name" : "激流快艇",
+      "share_url" : "https://pan.baidu.com/s/1QyciKv8efc0VknmIUMiqrA?pwd=1234",
       "status" : "published"
     }
   ],
