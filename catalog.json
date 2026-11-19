@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 64,
+  "catalog_version" : 65,
   "games" : [
     {
       "id" : "test001",
@@ -421,6 +421,13 @@
       "id" : "game-1795102594",
       "name" : "里约热内卢：圣徒之城",
       "share_url" : "https://pan.baidu.com/s/1jsjn0rZR3cLJK4Hp8hUjvQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795102686-9481e57f17b35c45.png",
+      "id" : "game-1795102686",
+      "name" : "灵魂猎手",
+      "share_url" : "https://pan.baidu.com/s/16XyBlv_EpTFstlo0ItYHHA?pwd=1234",
       "status" : "published"
     }
   ],
