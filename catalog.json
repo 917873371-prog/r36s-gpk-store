@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 69,
+  "catalog_version" : 70,
   "games" : [
     {
       "id" : "test001",
@@ -456,6 +456,13 @@
       "id" : "game-1795103355",
       "name" : "马里奥大乱斗特别版",
       "share_url" : "https://pan.baidu.com/s/1eW7J_RGr7cPR217AhksPhA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795103655-33c759c9d0e13cfd.png",
+      "id" : "game-1795103655",
+      "name" : "马里奥足球",
+      "share_url" : "https://pan.baidu.com/s/1HE2SShvixqej6jDNYwhrDw?pwd=1234",
       "status" : "published"
     }
   ],
