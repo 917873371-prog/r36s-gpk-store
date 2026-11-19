@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 70,
+  "catalog_version" : 71,
   "games" : [
     {
       "id" : "test001",
@@ -464,8 +464,15 @@
       "name" : "马里奥足球",
       "share_url" : "https://pan.baidu.com/s/1HE2SShvixqej6jDNYwhrDw?pwd=1234",
       "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795103761-07488cd605104190.png",
+      "id" : "game-1795103761",
+      "name" : "马力欧赛车Wii",
+      "share_url" : "https://pan.baidu.com/s/1n1qfaTgqfw4I83AgVTmojw?pwd=1234",
+      "status" : "published"
     }
   ],
   "schema_version" : 1,
-  "updated_at" : "2026-11-19"
+  "updated_at" : "2026-11-20"
 }
