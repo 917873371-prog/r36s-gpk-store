@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 61,
+  "catalog_version" : 62,
   "games" : [
     {
       "id" : "test001",
@@ -400,6 +400,13 @@
       "id" : "game-1795100372",
       "name" : "狂野之血",
       "share_url" : "https://pan.baidu.com/s/1fZyhA8m8JieAv8JAoRbKUQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795100734-ce7b3f2c484ae9fa.png",
+      "id" : "game-1795100734",
+      "name" : "蜡笔小新：我与博士的暑假",
+      "share_url" : "https://pan.baidu.com/s/18_IUpa496boy2f_sj4976w?pwd=1234",
       "status" : "published"
     }
   ],
