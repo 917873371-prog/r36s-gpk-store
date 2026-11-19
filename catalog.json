@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 50,
+  "catalog_version" : 51,
   "games" : [
     {
       "id" : "test001",
@@ -323,6 +323,13 @@
       "id" : "game-1795098450",
       "name" : "极品飞车9：最高通缉",
       "share_url" : "https://pan.baidu.com/s/1j6H5Gzs6Xyp5yz5GN7egMw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795098505-5d8e443d90417c23.png",
+      "id" : "game-1795098505",
+      "name" : "近地联盟先遣队",
+      "share_url" : "https://pan.baidu.com/s/14qMvtNQBxNPF0hU1plKEZg?pwd=1234",
       "status" : "published"
     }
   ],
