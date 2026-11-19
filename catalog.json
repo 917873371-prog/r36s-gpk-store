@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 43,
+  "catalog_version" : 44,
   "games" : [
     {
       "id" : "test001",
@@ -274,6 +274,13 @@
       "id" : "game-1795023272",
       "name" : "光环中文版",
       "share_url" : "https://pan.baidu.com/s/14jPZ7bwQsFFeN4Jc5juuVQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795097821-caf0924a3a8d43b1.png",
+      "id" : "game-1795097821",
+      "name" : "鬼泣4",
+      "share_url" : "https://pan.baidu.com/s/1LjgmZIELsuiwIFhzYXGH9A?pwd=1234",
       "status" : "published"
     }
   ],
