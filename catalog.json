@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 48,
+  "catalog_version" : 49,
   "games" : [
     {
       "id" : "test001",
@@ -309,6 +309,13 @@
       "id" : "game-1795098153",
       "name" : "极品飞车：最高通缉",
       "share_url" : "https://pan.baidu.com/s/1fX1011mw41am1PSRE-bD2w?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795098272-5edf5fcc5073d352.png",
+      "id" : "game-1795098272",
+      "name" : "极品飞车8：地下狂飙2",
+      "share_url" : "https://pan.baidu.com/s/13DAptOkhrOjzvOaruik94w?pwd=1234",
       "status" : "published"
     }
   ],
