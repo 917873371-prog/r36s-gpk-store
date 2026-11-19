@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 55,
+  "catalog_version" : 56,
   "games" : [
     {
       "id" : "test001",
@@ -358,6 +358,13 @@
       "id" : "game-1795099482",
       "name" : "恐怖奶奶",
       "share_url" : "https://pan.baidu.com/s/1U_XIs_IlOFPvcAZa6pnAyQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795099539-6c95999319dc2089.png",
+      "id" : "game-1795099539",
+      "name" : "狂野飙车：极限越野",
+      "share_url" : "https://pan.baidu.com/s/1voP42amEMAM8UgxH8777mQ?pwd=1234",
       "status" : "published"
     }
   ],
