@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 68,
+  "catalog_version" : 69,
   "games" : [
     {
       "id" : "test001",
@@ -449,6 +449,13 @@
       "id" : "game-1795103150",
       "name" : "马克思佩恩",
       "share_url" : "https://pan.baidu.com/s/1lutNwAxzi5Ma81FfOCjyeQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795103355-ca74e22a88166977.png",
+      "id" : "game-1795103355",
+      "name" : "马里奥大乱斗特别版",
+      "share_url" : "https://pan.baidu.com/s/1eW7J_RGr7cPR217AhksPhA?pwd=1234",
       "status" : "published"
     }
   ],
