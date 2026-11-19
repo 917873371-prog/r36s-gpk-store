@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 65,
+  "catalog_version" : 66,
   "games" : [
     {
       "id" : "test001",
@@ -428,6 +428,13 @@
       "id" : "game-1795102686",
       "name" : "灵魂猎手",
       "share_url" : "https://pan.baidu.com/s/16XyBlv_EpTFstlo0ItYHHA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795102780-a7a9e5e78c0eee46.png",
+      "id" : "game-1795102780",
+      "name" : "龙珠Z",
+      "share_url" : "https://pan.baidu.com/s/1qr-TpjWWxABYc2uf6aWscQ?pwd=1234",
       "status" : "published"
     }
   ],
