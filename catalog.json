@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 71,
+  "catalog_version" : 72,
   "games" : [
     {
       "id" : "test001",
@@ -470,6 +470,13 @@
       "id" : "game-1795103761",
       "name" : "马力欧赛车Wii",
       "share_url" : "https://pan.baidu.com/s/1n1qfaTgqfw4I83AgVTmojw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795105180-ac8c51719c2b4988.png",
+      "id" : "game-1795105180",
+      "name" : "末日生存",
+      "share_url" : "https://pan.baidu.com/s/11zDi92to9UoU5ZbYFAQKtw?pwd=1234",
       "status" : "published"
     }
   ],
