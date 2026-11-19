@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 58,
+  "catalog_version" : 59,
   "games" : [
     {
       "id" : "test001",
@@ -379,6 +379,13 @@
       "id" : "game-1795099903",
       "name" : "狂野飙车6",
       "share_url" : "https://pan.baidu.com/s/1Q7Z-OuFyGb3L3zkicp0XSg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795100017-cf79d5441277a594.png",
+      "id" : "game-1795100017",
+      "name" : "狂野飙车7",
+      "share_url" : "https://pan.baidu.com/s/1DGJbjooecqT1KJGIuVo04Q?pwd=1234",
       "status" : "published"
     }
   ],
