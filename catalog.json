@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 63,
+  "catalog_version" : 64,
   "games" : [
     {
       "id" : "test001",
@@ -414,6 +414,13 @@
       "id" : "game-1795102525",
       "name" : "蜡笔小新之煤炭小镇",
       "share_url" : "https://pan.baidu.com/s/1c9gtSJ4FjyIJRb4GDjRRIw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795102594-2ebe6d7fd2331585.png",
+      "id" : "game-1795102594",
+      "name" : "里约热内卢：圣徒之城",
+      "share_url" : "https://pan.baidu.com/s/1jsjn0rZR3cLJK4Hp8hUjvQ?pwd=1234",
       "status" : "published"
     }
   ],
