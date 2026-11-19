@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 54,
+  "catalog_version" : 55,
   "games" : [
     {
       "id" : "test001",
@@ -351,6 +351,13 @@
       "id" : "game-1795099399",
       "name" : "空洞骑士",
       "share_url" : "https://pan.baidu.com/s/11fvcQ426AUODdZ8lNtJGDw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795099482-0edd4edcc4973096.png",
+      "id" : "game-1795099482",
+      "name" : "恐怖奶奶",
+      "share_url" : "https://pan.baidu.com/s/1U_XIs_IlOFPvcAZa6pnAyQ?pwd=1234",
       "status" : "published"
     }
   ],
