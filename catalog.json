@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 67,
+  "catalog_version" : 68,
   "games" : [
     {
       "id" : "test001",
@@ -442,6 +442,13 @@
       "id" : "game-1795102946",
       "name" : "胧村正",
       "share_url" : "https://pan.baidu.com/s/10YF1evsyBVsu_-yZHzTRDA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795103150-c2cf679b569848cf.png",
+      "id" : "game-1795103150",
+      "name" : "马克思佩恩",
+      "share_url" : "https://pan.baidu.com/s/1lutNwAxzi5Ma81FfOCjyeQ?pwd=1234",
       "status" : "published"
     }
   ],
