@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 44,
+  "catalog_version" : 45,
   "games" : [
     {
       "id" : "test001",
@@ -281,6 +281,13 @@
       "id" : "game-1795097821",
       "name" : "鬼泣4",
       "share_url" : "https://pan.baidu.com/s/1LjgmZIELsuiwIFhzYXGH9A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795097937-4f0423a23b1156a6.png",
+      "id" : "game-1795097937",
+      "name" : "黑暗之心",
+      "share_url" : "https://pan.baidu.com/s/1rY5fImvAJaUAQVsLwvtfTA?pwd=1234",
       "status" : "published"
     }
   ],
