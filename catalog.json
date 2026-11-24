@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 109,
+  "catalog_version" : 110,
   "games" : [
     {
       "id" : "test001",
@@ -736,6 +736,13 @@
       "id" : "game-1795525375",
       "name" : "憎恨之心",
       "share_url" : "https://pan.baidu.com/s/1fSU7Pd-mh449goor5_HkRw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525745-5c0c2f29a3618cfa.png",
+      "id" : "game-1795525745",
+      "name" : "战地：叛逆连队2",
+      "share_url" : "https://pan.baidu.com/s/1y6TxLutNIZSi8IQSJck2oA?pwd=1234",
       "status" : "published"
     }
   ],
