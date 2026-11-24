@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 108,
+  "catalog_version" : 109,
   "games" : [
     {
       "id" : "test001",
@@ -729,6 +729,13 @@
       "id" : "game-1795525259",
       "name" : "泽诺尼亚传奇5",
       "share_url" : "https://pan.baidu.com/s/1hbqLYnQx0DY9_ICeLtv1_w?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525375-0f9745d3923132bb.png",
+      "id" : "game-1795525375",
+      "name" : "憎恨之心",
+      "share_url" : "https://pan.baidu.com/s/1fSU7Pd-mh449goor5_HkRw?pwd=1234",
       "status" : "published"
     }
   ],
