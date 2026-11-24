@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 84,
+  "catalog_version" : 85,
   "games" : [
     {
       "id" : "test001",
@@ -561,6 +561,13 @@
       "id" : "game-1795520124",
       "name" : "双人抬棺",
       "share_url" : "https://pan.baidu.com/s/1dCt-oVofHk-73szAGxe2tg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795520204-b0b8cf625487ef2c.png",
+      "id" : "game-1795520204",
+      "name" : "死亡扳机",
+      "share_url" : "https://pan.baidu.com/s/12BLFk49vU0lwkbFdh2CPdw?pwd=1234",
       "status" : "published"
     }
   ],
