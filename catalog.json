@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 100,
+  "catalog_version" : 101,
   "games" : [
     {
       "id" : "test001",
@@ -673,6 +673,13 @@
       "id" : "game-1795521972",
       "name" : "现代战争4：决战时刻",
       "share_url" : "https://pan.baidu.com/s/1xZAYchiSNfXF4W0evf-tgw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795522042-ab18cc3bda8e3c7f.png",
+      "id" : "game-1795522042",
+      "name" : "小丑牌",
+      "share_url" : "https://pan.baidu.com/s/1978BlxXek2jglg8GMmvkWA?pwd=1234",
       "status" : "published"
     }
   ],
