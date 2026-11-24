@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 73,
+  "catalog_version" : 74,
   "games" : [
     {
       "id" : "test001",
@@ -484,6 +484,13 @@
       "id" : "game-1795517974",
       "name" : "怒之铁拳",
       "share_url" : "https://pan.baidu.com/s/1GFnVkMt0vDJ4cTPLvL2zlw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795518859-8656e7e2de116fac.png",
+      "id" : "game-1795518859",
+      "name" : "七龙珠火光电石3",
+      "share_url" : "https://pan.baidu.com/s/1_RscbREPzH9UAt0XKi9wVQ?pwd=1234",
       "status" : "published"
     }
   ],
