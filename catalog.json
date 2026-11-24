@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 103,
+  "catalog_version" : 104,
   "games" : [
     {
       "id" : "test001",
@@ -694,6 +694,13 @@
       "id" : "game-1795522271",
       "name" : "信使",
       "share_url" : "https://pan.baidu.com/s/1XwbkNqMQmfHBDaFWpLusYQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795524865-f3bd355e516b62b9.png",
+      "id" : "game-1795524865",
+      "name" : "以撒的结合：重生",
+      "share_url" : "https://pan.baidu.com/s/1DZ_h4d7WoTGJduWwADpVQw?pwd=1234",
       "status" : "published"
     }
   ],
