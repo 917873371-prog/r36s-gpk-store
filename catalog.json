@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 121,
+  "catalog_version" : 122,
   "games" : [
     {
       "id" : "test001",
@@ -813,13 +813,6 @@
       "id" : "game-1795527302",
       "name" : "R36S网易云音乐",
       "share_url" : "https://pan.baidu.com/s/1RcHbmDOgFpt0QJOTj9LSrQ?pwd=1234",
-      "status" : "published"
-    },
-    {
-      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795529003-c2a78c49ea5070d2.png",
-      "id" : "game-1795529003",
-      "name" : "暗影之枪",
-      "share_url" : "https://pan.baidu.com/s/11EMBjOlcS5n2di9eOsbJPg?pwd=1234",
       "status" : "published"
     }
   ],
