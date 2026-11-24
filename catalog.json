@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 97,
+  "catalog_version" : 98,
   "games" : [
     {
       "id" : "test001",
@@ -652,6 +652,13 @@
       "id" : "game-1795521703",
       "name" : "侠盗猎车手：血战唐人街",
       "share_url" : "https://pan.baidu.com/s/16xkiDujYKvxLdpXyr14exQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521786-b8fdb19103447e72.png",
+      "id" : "game-1795521786",
+      "name" : "侠盗猎车手：罪恶都市",
+      "share_url" : "https://pan.baidu.com/s/1KDvnU38hQyW0VQq3zeXfag?pwd=1234",
       "status" : "published"
     }
   ],
