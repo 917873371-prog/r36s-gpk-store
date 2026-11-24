@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 122,
+  "catalog_version" : 123,
   "games" : [
     {
       "id" : "test001",
@@ -813,6 +813,13 @@
       "id" : "game-1795527302",
       "name" : "R36S网易云音乐",
       "share_url" : "https://pan.baidu.com/s/1RcHbmDOgFpt0QJOTj9LSrQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795529453-64501f05bb737f49.png",
+      "id" : "game-1795529453",
+      "name" : "奎爷之刃",
+      "share_url" : "https://pan.baidu.com/s/1zzWRgu_w1lat7QpDKLazUw?pwd=1234",
       "status" : "published"
     }
   ],
