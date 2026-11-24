@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 89,
+  "catalog_version" : 90,
   "games" : [
     {
       "id" : "test001",
@@ -596,6 +596,13 @@
       "id" : "game-1795521037",
       "name" : "索尼克卡丁车",
       "share_url" : "https://pan.baidu.com/s/1fUrP-Tl4SMTmc1214E1r9A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521094-944b98146937a3a1.png",
+      "id" : "game-1795521094",
+      "name" : "索尼克CD",
+      "share_url" : "https://pan.baidu.com/s/1nswd7tFLvYmEvMM0Dab9Cg?pwd=1234",
       "status" : "published"
     }
   ],
