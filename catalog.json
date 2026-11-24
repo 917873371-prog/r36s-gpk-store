@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 101,
+  "catalog_version" : 102,
   "games" : [
     {
       "id" : "test001",
@@ -680,6 +680,13 @@
       "id" : "game-1795522042",
       "name" : "小丑牌",
       "share_url" : "https://pan.baidu.com/s/1978BlxXek2jglg8GMmvkWA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795522123-d000aad77f749437.png",
+      "id" : "game-1795522123",
+      "name" : "辛普森一家横冲直撞",
+      "share_url" : "https://pan.baidu.com/s/1UT73P5Pbeg3QSANsKnBXSg?pwd=1234",
       "status" : "published"
     }
   ],
