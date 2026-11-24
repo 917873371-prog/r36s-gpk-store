@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 124,
+  "catalog_version" : 125,
   "games" : [
     {
       "id" : "test001",
@@ -827,6 +827,13 @@
       "id" : "game-1795529608",
       "name" : "寂静岭4",
       "share_url" : "https://pan.baidu.com/s/1pGEH4T7ZrCmxmo_KiEDWiw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795529789-ae9e5f4f4384f78a.png",
+      "id" : "game-1795529789",
+      "name" : "极品飞车热力追踪2",
+      "share_url" : "https://pan.baidu.com/s/10RTrjuh_tsCIRi6rznmeVg?pwd=1234",
       "status" : "published"
     }
   ],
