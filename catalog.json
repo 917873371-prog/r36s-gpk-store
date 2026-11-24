@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 115,
+  "catalog_version" : 116,
   "games" : [
     {
       "id" : "test001",
@@ -778,6 +778,13 @@
       "id" : "game-1795526307",
       "name" : "植物大战僵尸杂交",
       "share_url" : "https://pan.baidu.com/s/1DPGHpDt31GOJ8gyIlbDz4A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795526378-3f5c3f648295e98a.png",
+      "id" : "game-1795526378",
+      "name" : "质量效应：渗透者",
+      "share_url" : "https://pan.baidu.com/s/1KN6oDLKFZPOctE11LxNzPQ?pwd=1234",
       "status" : "published"
     }
   ],
