@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 81,
+  "catalog_version" : 82,
   "games" : [
     {
       "id" : "test001",
@@ -540,6 +540,13 @@
       "id" : "game-1795519505",
       "name" : "塞尔达传说：时之笛",
       "share_url" : "https://pan.baidu.com/s/1SV1xSolDE-a8nYzPxtDOBg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795519956-78529ae8903932fc.png",
+      "id" : "game-1795519956",
+      "name" : "生化奇兵",
+      "share_url" : "https://pan.baidu.com/s/1m63IQCMal-aXzm7yw_mIGA?pwd=1234",
       "status" : "published"
     }
   ],
