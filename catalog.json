@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 76,
+  "catalog_version" : 77,
   "games" : [
     {
       "id" : "test001",
@@ -505,6 +505,13 @@
       "id" : "game-1795519064",
       "name" : "墨西哥英雄大混战黄金版",
       "share_url" : "https://pan.baidu.com/s/1dctjCmFmGdXtUTNFzfd2zQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795519204-45d7b0b70aa7264e.png",
+      "id" : "game-1795519204",
+      "name" : "忍者神龟：施莱德的复仇",
+      "share_url" : "https://pan.baidu.com/s/1OhMiCoSsx4s2DMGFXqTaQg?pwd=1234",
       "status" : "published"
     }
   ],
