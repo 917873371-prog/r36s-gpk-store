@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 114,
+  "catalog_version" : 115,
   "games" : [
     {
       "id" : "test001",
@@ -771,6 +771,13 @@
       "id" : "game-1795526235",
       "name" : "职业钓鱼",
       "share_url" : "https://pan.baidu.com/s/1vri8L3zzP48r7tu46KFykQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795526307-70062919ecb1c401.png",
+      "id" : "game-1795526307",
+      "name" : "植物大战僵尸杂交",
+      "share_url" : "https://pan.baidu.com/s/1DPGHpDt31GOJ8gyIlbDz4A?pwd=1234",
       "status" : "published"
     }
   ],
