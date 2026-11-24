@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 107,
+  "catalog_version" : 108,
   "games" : [
     {
       "id" : "test001",
@@ -722,6 +722,13 @@
       "id" : "game-1795525161",
       "name" : "幽林怪谈",
       "share_url" : "https://pan.baidu.com/s/1_y3IhqfkbCJrNF71BWcwJw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525259-8d9d84a6a3e41245.png",
+      "id" : "game-1795525259",
+      "name" : "泽诺尼亚传奇5",
+      "share_url" : "https://pan.baidu.com/s/1hbqLYnQx0DY9_ICeLtv1_w?pwd=1234",
       "status" : "published"
     }
   ],
