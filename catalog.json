@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 113,
+  "catalog_version" : 114,
   "games" : [
     {
       "id" : "test001",
@@ -764,6 +764,13 @@
       "id" : "game-1795526178",
       "name" : "真实赛车3",
       "share_url" : "https://pan.baidu.com/s/14ovoIazsDzEmcSzUOHbuDA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795526235-505a9024d3201525.png",
+      "id" : "game-1795526235",
+      "name" : "职业钓鱼",
+      "share_url" : "https://pan.baidu.com/s/1vri8L3zzP48r7tu46KFykQ?pwd=1234",
       "status" : "published"
     }
   ],
