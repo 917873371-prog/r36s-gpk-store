@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 85,
+  "catalog_version" : 86,
   "games" : [
     {
       "id" : "test001",
@@ -568,6 +568,13 @@
       "id" : "game-1795520204",
       "name" : "死亡扳机",
       "share_url" : "https://pan.baidu.com/s/12BLFk49vU0lwkbFdh2CPdw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795520265-9dbb986fab623507.png",
+      "id" : "game-1795520265",
+      "name" : "死亡空间",
+      "share_url" : "https://pan.baidu.com/s/1lwihrhtslySodN7crNCJVQ?pwd=1234",
       "status" : "published"
     }
   ],
