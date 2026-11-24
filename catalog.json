@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 75,
+  "catalog_version" : 76,
   "games" : [
     {
       "id" : "test001",
@@ -498,6 +498,13 @@
       "id" : "game-1795518974",
       "name" : "纳碎僵尸",
       "share_url" : "https://pan.baidu.com/s/1PahAVWwPJKlVsojbjeBFLg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795519064-c7eff07c5ed41801.png",
+      "id" : "game-1795519064",
+      "name" : "墨西哥英雄大混战黄金版",
+      "share_url" : "https://pan.baidu.com/s/1dctjCmFmGdXtUTNFzfd2zQ?pwd=1234",
       "status" : "published"
     }
   ],
