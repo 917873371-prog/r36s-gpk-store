@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 79,
+  "catalog_version" : 80,
   "games" : [
     {
       "id" : "test001",
@@ -526,6 +526,13 @@
       "id" : "game-1795519362",
       "name" : "塞尔达传说：风之杖",
       "share_url" : "https://pan.baidu.com/s/1gtpj2y5gVLJiaYi5NP5f2g?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795519436-82820aab53c4b731.png",
+      "id" : "game-1795519436",
+      "name" : "塞尔达传说：黄昏公主",
+      "share_url" : "https://pan.baidu.com/s/1iJBzHdw9KQmx7sj6-45d-A?pwd=1234",
       "status" : "published"
     }
   ],
