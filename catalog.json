@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 118,
+  "catalog_version" : 119,
   "games" : [
     {
       "id" : "test001",
@@ -799,6 +799,13 @@
       "id" : "game-1795526608",
       "name" : "H土豆兄弟-新黎明",
       "share_url" : "https://pan.baidu.com/s/1G2YFvdt-9dpMq0o3-Uzd_w?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795526851-ea6951bdd1f5d98c.png",
+      "id" : "game-1795526851",
+      "name" : "N.O.V.A. 2",
+      "share_url" : "https://pan.baidu.com/s/1jXYOBwjZ6dxUuDTJQOktDg?pwd=1234",
       "status" : "published"
     }
   ],
