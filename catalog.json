@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 94,
+  "catalog_version" : 95,
   "games" : [
     {
       "id" : "test001",
@@ -631,6 +631,13 @@
       "id" : "game-1795521423",
       "name" : "武士2复仇",
       "share_url" : "https://pan.baidu.com/s/15YtdEydNKhYRULX-ZqB4Ow?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521517-521582e6216ff7b2.png",
+      "id" : "game-1795521517",
+      "name" : "武士零",
+      "share_url" : "https://pan.baidu.com/s/1PHjvwh4LMdT1KDqS9AVgKA?pwd=1234",
       "status" : "published"
     }
   ],
