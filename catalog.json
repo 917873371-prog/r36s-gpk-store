@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 119,
+  "catalog_version" : 120,
   "games" : [
     {
       "id" : "test001",
@@ -806,6 +806,13 @@
       "id" : "game-1795526851",
       "name" : "N.O.V.A. 2",
       "share_url" : "https://pan.baidu.com/s/1jXYOBwjZ6dxUuDTJQOktDg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795527302-9d78e09739e2994c.png",
+      "id" : "game-1795527302",
+      "name" : "R36S网易云音乐",
+      "share_url" : "https://pan.baidu.com/s/1RcHbmDOgFpt0QJOTj9LSrQ?pwd=1234",
       "status" : "published"
     }
   ],
