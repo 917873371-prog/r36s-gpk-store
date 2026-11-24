@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 98,
+  "catalog_version" : 99,
   "games" : [
     {
       "id" : "test001",
@@ -659,6 +659,13 @@
       "id" : "game-1795521786",
       "name" : "侠盗猎车手：罪恶都市",
       "share_url" : "https://pan.baidu.com/s/1KDvnU38hQyW0VQq3zeXfag?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521889-e9b695257c7f04d3.png",
+      "id" : "game-1795521889",
+      "name" : "现代战争3：堕落国度",
+      "share_url" : "https://pan.baidu.com/s/1HPpMVcKgkBF4gBVEHDDF6A?pwd=1234",
       "status" : "published"
     }
   ],
