@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 95,
+  "catalog_version" : 96,
   "games" : [
     {
       "id" : "test001",
@@ -638,6 +638,13 @@
       "id" : "game-1795521517",
       "name" : "武士零",
       "share_url" : "https://pan.baidu.com/s/1PHjvwh4LMdT1KDqS9AVgKA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521612-6182b24777fbaedd.png",
+      "id" : "game-1795521612",
+      "name" : "侠盗猎车手：圣安地列斯",
+      "share_url" : "https://pan.baidu.com/s/1EkPqOrQ3ixUXjK_F_PhboQ?pwd=1234",
       "status" : "published"
     }
   ],
