@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 110,
+  "catalog_version" : 111,
   "games" : [
     {
       "id" : "test001",
@@ -743,6 +743,13 @@
       "id" : "game-1795525745",
       "name" : "战地：叛逆连队2",
       "share_url" : "https://pan.baidu.com/s/1y6TxLutNIZSi8IQSJck2oA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525832-7633a2f1a31a46f9.png",
+      "id" : "game-1795525832",
+      "name" : "战神合集",
+      "share_url" : "https://pan.baidu.com/s/134sbl14wFFJxiLvOp-dNxQ?pwd=1234",
       "status" : "published"
     }
   ],
