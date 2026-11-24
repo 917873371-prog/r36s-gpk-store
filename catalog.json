@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 90,
+  "catalog_version" : 91,
   "games" : [
     {
       "id" : "test001",
@@ -603,6 +603,13 @@
       "id" : "game-1795521094",
       "name" : "索尼克CD",
       "share_url" : "https://pan.baidu.com/s/1nswd7tFLvYmEvMM0Dab9Cg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521151-894a1e4178cf35e2.png",
+      "id" : "game-1795521151",
+      "name" : "泰坦之旅",
+      "share_url" : "https://pan.baidu.com/s/1pKQDbv6iDJBoCFhbVQlbnw?pwd=1234",
       "status" : "published"
     }
   ],
