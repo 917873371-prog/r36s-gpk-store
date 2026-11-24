@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 111,
+  "catalog_version" : 112,
   "games" : [
     {
       "id" : "test001",
@@ -750,6 +750,13 @@
       "id" : "game-1795525832",
       "name" : "战神合集",
       "share_url" : "https://pan.baidu.com/s/134sbl14wFFJxiLvOp-dNxQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525927-cd52b871dc3dc99d.png",
+      "id" : "game-1795525927",
+      "name" : "蒸汽世界2",
+      "share_url" : "https://pan.baidu.com/s/1sG6YAltLBYHqSrdglajt2w?pwd=1234",
       "status" : "published"
     }
   ],
