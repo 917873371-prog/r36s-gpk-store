@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 117,
+  "catalog_version" : 118,
   "games" : [
     {
       "id" : "test001",
@@ -792,6 +792,13 @@
       "id" : "game-1795526465",
       "name" : "Friday Night Funkin",
       "share_url" : "https://pan.baidu.com/s/1u7VsWXsCP5JZmEh3C3UPzA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795526608-526bfebd5c660abd.png",
+      "id" : "game-1795526608",
+      "name" : "H土豆兄弟-新黎明",
+      "share_url" : "https://pan.baidu.com/s/1G2YFvdt-9dpMq0o3-Uzd_w?pwd=1234",
       "status" : "published"
     }
   ],
