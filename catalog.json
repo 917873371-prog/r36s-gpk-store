@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 83,
+  "catalog_version" : 84,
   "games" : [
     {
       "id" : "test001",
@@ -554,6 +554,13 @@
       "id" : "game-1795520045",
       "name" : "实况足球6",
       "share_url" : "https://pan.baidu.com/s/1gTPSbGc0-8gp6wdw4M4dfQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795520124-259fb33d5ca7e27b.png",
+      "id" : "game-1795520124",
+      "name" : "双人抬棺",
+      "share_url" : "https://pan.baidu.com/s/1dCt-oVofHk-73szAGxe2tg?pwd=1234",
       "status" : "published"
     }
   ],
