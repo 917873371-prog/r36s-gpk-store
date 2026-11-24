@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 99,
+  "catalog_version" : 100,
   "games" : [
     {
       "id" : "test001",
@@ -666,6 +666,13 @@
       "id" : "game-1795521889",
       "name" : "现代战争3：堕落国度",
       "share_url" : "https://pan.baidu.com/s/1HPpMVcKgkBF4gBVEHDDF6A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521972-afe86a81fc4b0c66.png",
+      "id" : "game-1795521972",
+      "name" : "现代战争4：决战时刻",
+      "share_url" : "https://pan.baidu.com/s/1xZAYchiSNfXF4W0evf-tgw?pwd=1234",
       "status" : "published"
     }
   ],
