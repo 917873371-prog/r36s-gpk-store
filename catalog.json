@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 82,
+  "catalog_version" : 83,
   "games" : [
     {
       "id" : "test001",
@@ -547,6 +547,13 @@
       "id" : "game-1795519956",
       "name" : "生化奇兵",
       "share_url" : "https://pan.baidu.com/s/1m63IQCMal-aXzm7yw_mIGA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795520045-5b7a1a17f4113f49.png",
+      "id" : "game-1795520045",
+      "name" : "实况足球6",
+      "share_url" : "https://pan.baidu.com/s/1gTPSbGc0-8gp6wdw4M4dfQ?pwd=1234",
       "status" : "published"
     }
   ],
