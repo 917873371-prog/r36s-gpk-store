@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 91,
+  "catalog_version" : 92,
   "games" : [
     {
       "id" : "test001",
@@ -610,6 +610,13 @@
       "id" : "game-1795521151",
       "name" : "泰坦之旅",
       "share_url" : "https://pan.baidu.com/s/1pKQDbv6iDJBoCFhbVQlbnw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795521213-15769bf5b7b0756a.png",
+      "id" : "game-1795521213",
+      "name" : "屠杀2",
+      "share_url" : "https://pan.baidu.com/s/1PhIA4rySl1M5aHJfkk4quQ?pwd=1234",
       "status" : "published"
     }
   ],
