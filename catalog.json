@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 123,
+  "catalog_version" : 124,
   "games" : [
     {
       "id" : "test001",
@@ -820,6 +820,13 @@
       "id" : "game-1795529453",
       "name" : "奎爷之刃",
       "share_url" : "https://pan.baidu.com/s/1zzWRgu_w1lat7QpDKLazUw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795529608-f1fa415dd71e2234.png",
+      "id" : "game-1795529608",
+      "name" : "寂静岭4",
+      "share_url" : "https://pan.baidu.com/s/1pGEH4T7ZrCmxmo_KiEDWiw?pwd=1234",
       "status" : "published"
     }
   ],
