@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 106,
+  "catalog_version" : 107,
   "games" : [
     {
       "id" : "test001",
@@ -715,6 +715,13 @@
       "id" : "game-1795525070",
       "name" : "永恒之金",
       "share_url" : "https://pan.baidu.com/s/1WHRumo8wkLx6q84CD6fh2g?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525161-a0e9a76dff81991a.png",
+      "id" : "game-1795525161",
+      "name" : "幽林怪谈",
+      "share_url" : "https://pan.baidu.com/s/1_y3IhqfkbCJrNF71BWcwJw?pwd=1234",
       "status" : "published"
     }
   ],
