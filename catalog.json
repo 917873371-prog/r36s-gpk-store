@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 125,
+  "catalog_version" : 126,
   "games" : [
     {
       "id" : "test001",
@@ -834,6 +834,13 @@
       "id" : "game-1795529789",
       "name" : "极品飞车热力追踪2",
       "share_url" : "https://pan.baidu.com/s/10RTrjuh_tsCIRi6rznmeVg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795529883-6656919a4725cd81.png",
+      "id" : "game-1795529883",
+      "name" : "极限摩托3",
+      "share_url" : "https://pan.baidu.com/s/1CEEvBowUJU04lhecPI0OeA?pwd=1234",
       "status" : "published"
     }
   ],
