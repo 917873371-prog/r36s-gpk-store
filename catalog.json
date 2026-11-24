@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 126,
+  "catalog_version" : 127,
   "games" : [
     {
       "id" : "test001",
@@ -841,6 +841,13 @@
       "id" : "game-1795529883",
       "name" : "极限摩托3",
       "share_url" : "https://pan.baidu.com/s/1CEEvBowUJU04lhecPI0OeA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795529968-09a5541127fd2c3b.png",
+      "id" : "game-1795529968",
+      "name" : "横冲直撞2",
+      "share_url" : "https://pan.baidu.com/s/1-kV9kmseClS-pLTWhJEUmg?pwd=1234",
       "status" : "published"
     }
   ],
