@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 86,
+  "catalog_version" : 87,
   "games" : [
     {
       "id" : "test001",
@@ -575,6 +575,13 @@
       "id" : "game-1795520265",
       "name" : "死亡空间",
       "share_url" : "https://pan.baidu.com/s/1lwihrhtslySodN7crNCJVQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795520869-80b2d8278e0734fa.png",
+      "id" : "game-1795520869",
+      "name" : "死亡细胞",
+      "share_url" : "https://pan.baidu.com/s/1ZumWhb_tcFTWVTfCFg69Bw?pwd=1234",
       "status" : "published"
     }
   ],
