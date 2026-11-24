@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 105,
+  "catalog_version" : 106,
   "games" : [
     {
       "id" : "test001",
@@ -708,6 +708,13 @@
       "id" : "game-1795524987",
       "name" : "英雄无敌3死亡阴影",
       "share_url" : "https://pan.baidu.com/s/1x9gj3611-Ak7iX6mhC7RcA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795525070-29a048f78500e7c5.png",
+      "id" : "game-1795525070",
+      "name" : "永恒之金",
+      "share_url" : "https://pan.baidu.com/s/1WHRumo8wkLx6q84CD6fh2g?pwd=1234",
       "status" : "published"
     }
   ],
