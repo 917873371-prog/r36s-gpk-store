@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 77,
+  "catalog_version" : 78,
   "games" : [
     {
       "id" : "test001",
@@ -512,6 +512,13 @@
       "id" : "game-1795519204",
       "name" : "忍者神龟：施莱德的复仇",
       "share_url" : "https://pan.baidu.com/s/1OhMiCoSsx4s2DMGFXqTaQg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795519279-8b20cda7ee937eb8.png",
+      "id" : "game-1795519279",
+      "name" : "荣誉勋章：联合袭击",
+      "share_url" : "https://pan.baidu.com/s/10T5NiHvKY0Da6e1R671KZg?pwd=1234",
       "status" : "published"
     }
   ],
