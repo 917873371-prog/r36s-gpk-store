@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 80,
+  "catalog_version" : 81,
   "games" : [
     {
       "id" : "test001",
@@ -533,6 +533,13 @@
       "id" : "game-1795519436",
       "name" : "塞尔达传说：黄昏公主",
       "share_url" : "https://pan.baidu.com/s/1iJBzHdw9KQmx7sj6-45d-A?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795519505-77e6e55a2cbdc352.png",
+      "id" : "game-1795519505",
+      "name" : "塞尔达传说：时之笛",
+      "share_url" : "https://pan.baidu.com/s/1SV1xSolDE-a8nYzPxtDOBg?pwd=1234",
       "status" : "published"
     }
   ],
