@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 127,
+  "catalog_version" : 128,
   "games" : [
     {
       "id" : "test001",
@@ -849,8 +849,15 @@
       "name" : "横冲直撞2",
       "share_url" : "https://pan.baidu.com/s/1-kV9kmseClS-pLTWhJEUmg?pwd=1234",
       "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795664725-63367f4cce8baf50.png",
+      "id" : "game-1795664725",
+      "name" : "荒野大嫖客：救赎",
+      "share_url" : "https://pan.baidu.com/s/1bvTJErspeInkiBhau8aLXw?pwd=1234",
+      "status" : "published"
     }
   ],
   "schema_version" : 1,
-  "updated_at" : "2026-11-24"
+  "updated_at" : "2026-11-26"
 }
