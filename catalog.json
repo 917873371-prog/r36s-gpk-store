@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 129,
+  "catalog_version" : 130,
   "games" : [
     {
       "id" : "test001",
@@ -848,6 +848,13 @@
       "id" : "game-1795529968",
       "name" : "横冲直撞2",
       "share_url" : "https://pan.baidu.com/s/1-kV9kmseClS-pLTWhJEUmg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795680516-a2c43113ddafd981.png",
+      "id" : "game-1795680516",
+      "name" : "荒野大镖客：左轮",
+      "share_url" : "https://pan.baidu.com/s/1z7GbsSX-tRksihNK6InqFg?pwd=1234",
       "status" : "published"
     }
   ],
