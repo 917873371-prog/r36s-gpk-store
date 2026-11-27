@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 134,
+  "catalog_version" : 135,
   "games" : [
     {
       "id" : "test001",
@@ -869,6 +869,13 @@
       "id" : "game-1795775579",
       "name" : "地铁跑酷",
       "share_url" : "https://pan.baidu.com/s/1UiMq06AkCvjeq5O-liEO2g?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795775668-527f76be2858e33a.png",
+      "id" : "game-1795775668",
+      "name" : "大富翁4",
+      "share_url" : "https://pan.baidu.com/s/1Kyqq_aZ7wyxy4KMPiCH_JQ?pwd=1234",
       "status" : "published"
     }
   ],
