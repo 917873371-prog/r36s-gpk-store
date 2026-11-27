@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 132,
+  "catalog_version" : 133,
   "games" : [
     {
       "id" : "test001",
@@ -855,6 +855,13 @@
       "id" : "game-1795769489",
       "name" : "艾希",
       "share_url" : "https://pan.baidu.com/s/1xQpOzRB8n-gDLqMayI32NA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795771058-09aa5d0d36187e75.png",
+      "id" : "game-1795771058",
+      "name" : "寂静岭2",
+      "share_url" : "https://pan.baidu.com/s/173IXaM0rrdNrGr2UoUCpOw?pwd=1234",
       "status" : "published"
     }
   ],
