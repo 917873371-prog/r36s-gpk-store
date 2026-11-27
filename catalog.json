@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 138,
+  "catalog_version" : 139,
   "games" : [
     {
       "id" : "test001",
@@ -897,6 +897,13 @@
       "id" : "game-1795775865",
       "name" : "天天过马路",
       "share_url" : "https://pan.baidu.com/s/1tVWpWKiVlv4B8G5sunLTiA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795775947-762175bf3667e62a.png",
+      "id" : "game-1795775947",
+      "name" : "跑车浪漫旅4",
+      "share_url" : "https://pan.baidu.com/s/1GQNntucegNOHsD-iN0vXdA?pwd=1234",
       "status" : "published"
     }
   ],
