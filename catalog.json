@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 136,
+  "catalog_version" : 137,
   "games" : [
     {
       "id" : "test001",
@@ -883,6 +883,13 @@
       "id" : "game-1795775731",
       "name" : "辐射-新维加斯",
       "share_url" : "https://pan.baidu.com/s/1ojRfKBV2DrZlHjlfLcd7AQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795775789-54448ea023d12276.png",
+      "id" : "game-1795775789",
+      "name" : "旺达与巨像",
+      "share_url" : "https://pan.baidu.com/s/1NFiicjtZviO0G2rf0hMzmQ?pwd=1234",
       "status" : "published"
     }
   ],
