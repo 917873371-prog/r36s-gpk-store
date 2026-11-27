@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 139,
+  "catalog_version" : 140,
   "games" : [
     {
       "id" : "test001",
@@ -904,6 +904,13 @@
       "id" : "game-1795775947",
       "name" : "跑车浪漫旅4",
       "share_url" : "https://pan.baidu.com/s/1GQNntucegNOHsD-iN0vXdA?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795776024-5d344e4a01927662.png",
+      "id" : "game-1795776024",
+      "name" : "元气骑士",
+      "share_url" : "https://pan.baidu.com/s/1myZsPGAeq2dRPgPHT4MAWQ?pwd=1234",
       "status" : "published"
     }
   ],
