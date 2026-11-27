@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 135,
+  "catalog_version" : 136,
   "games" : [
     {
       "id" : "test001",
@@ -876,6 +876,13 @@
       "id" : "game-1795775668",
       "name" : "大富翁4",
       "share_url" : "https://pan.baidu.com/s/1Kyqq_aZ7wyxy4KMPiCH_JQ?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795775731-137fc81efbceebd4.png",
+      "id" : "game-1795775731",
+      "name" : "辐射-新维加斯",
+      "share_url" : "https://pan.baidu.com/s/1ojRfKBV2DrZlHjlfLcd7AQ?pwd=1234",
       "status" : "published"
     }
   ],
