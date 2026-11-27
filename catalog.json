@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 133,
+  "catalog_version" : 134,
   "games" : [
     {
       "id" : "test001",
@@ -862,6 +862,13 @@
       "id" : "game-1795771058",
       "name" : "寂静岭2",
       "share_url" : "https://pan.baidu.com/s/173IXaM0rrdNrGr2UoUCpOw?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795775579-6940d433630a3720.png",
+      "id" : "game-1795775579",
+      "name" : "地铁跑酷",
+      "share_url" : "https://pan.baidu.com/s/1UiMq06AkCvjeq5O-liEO2g?pwd=1234",
       "status" : "published"
     }
   ],
