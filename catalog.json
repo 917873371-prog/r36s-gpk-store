@@ -1,5 +1,5 @@
 {
-  "catalog_version" : 131,
+  "catalog_version" : 132,
   "games" : [
     {
       "id" : "test001",
@@ -848,6 +848,13 @@
       "id" : "game-1795680516",
       "name" : "荒野大镖客：左轮",
       "share_url" : "https://pan.baidu.com/s/1z7GbsSX-tRksihNK6InqFg?pwd=1234",
+      "status" : "published"
+    },
+    {
+      "cover" : "https://917873371-prog.github.io/r36s-gpk-store/covers/game-1795769489-38ce21a6364c6ca9.png",
+      "id" : "game-1795769489",
+      "name" : "艾希",
+      "share_url" : "https://pan.baidu.com/s/1xQpOzRB8n-gDLqMayI32NA?pwd=1234",
       "status" : "published"
     }
   ],
